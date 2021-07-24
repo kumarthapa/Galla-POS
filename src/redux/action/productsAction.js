@@ -3,6 +3,10 @@ import { get, post } from "./http"
 import UrlHelper from '../../Helper/urlHelper'
 
 
+// export const fetchProductsjsonplacehoder = () => dispatch => {
+//     let url = 'https://jsonplaceholder.typicode.com/photos';
+//     return get(url);
+// }
 export const fetchProducts = () => dispatch => {
     let url = UrlHelper.REACT_APP_ITEM_API();
     return get(url);
@@ -56,24 +60,25 @@ export const saveCategoryProducts = (data) => {
 }
 
 export const saveBestsellingProducts = (data) => {
-    var products = data.slice(0, 20);
-    if (data.length > 60) {
-        products = data.slice(40, 60);
-    }
+//console.log(data)
+    // var products = data.slice(0, 20);
+    // if (data.length > 60) {
+    //     products = data.slice(40, 60);
+    // }
     return {
         type: SAVE_BESTSELLING_PRODUCTS,
-        payload: products
+        payload: data
     }
 }
 
 export const saveRecommendedProducts = (data) => {
-    var products = data.slice(0, 20);
-    if (data.length > 80) {
-        products = data.slice(60, 80);
-    }
+    // var products = data.slice(0, 20);
+    // if (data.length > 80) {
+    //     products = data.slice(60, 80);
+    // }
     return {
         type: SAVE_RECOMMENDED_PRODUCTS,
-        payload: products
+        payload: data
     }
 }
 

@@ -35,6 +35,7 @@ class EditablePrice extends Component {
         this.setState({
             newPrice: product.finalprice
         })
+        //console.log('testing', product.finalprice)
     }
 
     editNow = (mrp) => {

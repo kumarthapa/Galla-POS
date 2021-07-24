@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import { get, post } from "../../redux/action/http"
 import { withStyles } from "@material-ui/core/styles";
 import ProductPage from './Product';
 import CategoryList from './CategoryList';
 //import RecomdedProduct from './RecomdedProduct';
-import { fetchProducts, saveProducts, saveCategoryProducts, saveBestsellingProducts, saveRecommendedProducts, saveCategories } from '../../redux/action/productsAction';
+import {fetchProducts, saveProducts, saveCategoryProducts, saveBestsellingProducts, saveRecommendedProducts, saveCategories } from '../../redux/action/productsAction';
 import { AddToCart, updateQty } from '../../redux/action/cartAction';
 import { loading, alert } from '../../redux/action/InterAction';
 import { connect } from "react-redux";
@@ -11,6 +12,8 @@ import PropTypes from 'prop-types';
 import { Typography, Grid } from '@material-ui/core';
 import CartHelper from '../../Helper/cartHelper';
 import AddToCartHelper from '../../Helper/actionHelper/addToCartHelper';
+import BestSelling from './BestSelling';
+import RecomdedProduct from './RecomdedProduct';
 
 const Styles = theme => ({
   root: {
@@ -38,7 +41,19 @@ class Productpannel extends Component {
       this.showEmptyProductsBlock();
       this.props.loading(false);
     }
+    this.jsonPlaceholderItems()
   }
+
+//testing only... api from jsonplacehlder
+jsonPlaceholderItems = () =>{
+  let url = 'https://fakestoreapi.com/products';
+  fetch(url).then(res => res.json())
+  .then(res2=> {
+    this.props.saveBestsellingProducts(res2);
+    this.props.saveRecommendedProducts(res2);
+  })
+}
+///====X
 
   fetchProducts = () => {
     this.props.fetchProducts()
@@ -48,8 +63,8 @@ class Productpannel extends Component {
           if (products.data) {
             this.props.saveProducts(products);
             this.props.saveCategoryProducts(products.data);
-            this.props.saveBestsellingProducts(products.data);
-            this.props.saveRecommendedProducts(products.data);
+            //this.props.saveBestsellingProducts(products.data);
+            //this.props.saveRecommendedProducts(products.data);
             this.props.loading(false);
           } else {
             this.showEmptyProductsBlock();
@@ -110,13 +125,13 @@ class Productpannel extends Component {
             null
           }
           {bestsellings !== undefined && bestsellings.length !== 0 ?
-            <ProductPage products={bestsellings} title={'Best Selling Products'} AddToCart={this.AddToCartProduct} />
+            <BestSelling products={bestsellings} title={'Best Selling Products'} AddToCart={this.AddToCartProduct} />
             :
             null
           }
           {/* //Recommended */}
           {recommended !== undefined && recommended.length !== 0 ?
-            <ProductPage products={recommended} title={'Valuable Products'} AddToCart={this.AddToCartProduct} />
+            <RecomdedProduct products={recommended} title={'Valuable Products'} AddToCart={this.AddToCartProduct} />
             :
             null
           }
@@ -151,6 +166,7 @@ const mapStateToProps = state => ({
 });
 
 const mapActionsToProps = {
+  // fetchProductsjsonplacehoder,
   fetchProducts,
   saveProducts,
   saveCategoryProducts,

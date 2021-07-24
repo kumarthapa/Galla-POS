@@ -23,6 +23,9 @@ const Styles = theme => ({
     totalamount: {
         fontSize: 28,
         fontWeight: 'bold',
+    },
+    infoicone:{
+        color: '#3383FF'
     }
 });
 
@@ -83,7 +86,8 @@ class TotalSummary extends Component {
                         <Box>
                             <Fab className={'fab-button-on-checkout'} id="summary-info-btn" title="Summary Info [Alt+I]" onClick={() => this.props.handleClickOpen()} disabled={CartHelper.isEmpty(cartProduct) ? true : false}>
                                 <Avatar className={'checkout-icons'}>
-                                    <Info className={'info-icon'} />
+                                   {/* class priv name = className={'info-icon'} */}
+                                    <Info className={classes.infoicone}/>
                                 </Avatar>
                             </Fab>
                         </Box>

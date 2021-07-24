@@ -218,7 +218,7 @@ class Checkoutpage extends Component {
         <Box >
           <Card className={classes.boxcardfix}>
 
-            <TotalSummary handleClickOpen={() => this.handleClickOpen('info')} />
+          <TotalSummary handleClickOpen={() => this.handleClickOpen('info')}/>
 
             {productData && cartHelper.isRulesAppliedAsCoupon() ?
               <ApplyAsCoupon />

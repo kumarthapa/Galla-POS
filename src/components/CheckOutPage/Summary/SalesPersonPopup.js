@@ -1,13 +1,26 @@
 import React, { Component } from 'react'
 import { Dialog, DialogActions, DialogContent, Grid, Avatar, Box, Typography, Button, TextField, FormControl, MenuItem, Switch } from '@material-ui/core';
 import { HighlightOff } from '@material-ui/icons';
-
+import { withStyles } from "@material-ui/core/styles";
 import { connect } from "react-redux";
 import PropTypes from 'prop-types';
 import { updateCPhone, updateCName, updateSalesExe, toogleDummyBill } from '../../../redux/action/cartAction';
 import storeHelper from '../../../Helper/storeHelper';
 
+const Styles = theme => ({
+  continuebtn: {
+   color:'white',
+   backgroundColor:'#3383FF',
+   width: '100px',
+   padding: '16px 90px',
+   "&:hover": {
+  backgroundColor: '#339FFF'
+  }
+  },
+})
+
 export class SalesPersonPopup extends Component {
+  
   constructor(props) {
     super(props)
 
@@ -16,6 +29,7 @@ export class SalesPersonPopup extends Component {
       isMobileRequired: false
     }
   }
+
   componentDidMount() {
 
     const { checkoutData } = this.props
@@ -80,6 +94,7 @@ export class SalesPersonPopup extends Component {
   }
 
   render() {
+    const { classes } = this.props
     const { checkoutData, storeData } = this.props
     const { isMobileRequired } = this.state
 
@@ -169,7 +184,8 @@ export class SalesPersonPopup extends Component {
               </Grid>
               <Grid item xs={5}>
                 <Box p={2} pl={0}>
-                  <Button variant="contained" onClick={this.handleContinue} className={'continue-button width-100'} >
+                  {/* previous btn class , className={'continue-button width-100'} */}
+                  <Button variant="contained" onClick={this.handleContinue}  className={classes.continuebtn}>
                     Continue
                   </Button>
                 </Box>
@@ -192,4 +208,4 @@ const mapStateToProps = state => ({
   checkoutData: state.checkoutData,
   storeData: state.storeData,
 });
-export default connect(mapStateToProps, { updateCPhone, updateCName, updateSalesExe, toogleDummyBill })((SalesPersonPopup))
+export default connect(mapStateToProps, { updateCPhone, updateCName, updateSalesExe, toogleDummyBill })((withStyles(Styles))(SalesPersonPopup))

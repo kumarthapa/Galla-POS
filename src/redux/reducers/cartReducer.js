@@ -86,7 +86,6 @@ function Cart(state = [], action) {
                             qty: Number(product.qty) - 1
                         }
                     }
-
                 }
                 return product;
             })

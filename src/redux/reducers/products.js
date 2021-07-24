@@ -24,6 +24,7 @@ function products(state = initialState, action) {
             }
 
         case SAVE_BESTSELLING_PRODUCTS:
+           
             return {
                 ...state,
                 bestsellings: action.payload

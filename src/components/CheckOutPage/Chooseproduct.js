@@ -152,7 +152,8 @@ class ChooseProduct extends Component {
                                     :
                                     <CardMedia
                                         className={classes.chooseimg}
-                                        image={`${process.env.PUBLIC_URL}/assets/images/shop-placeholder.png`}
+                                        // image={`${process.env.PUBLIC_URL}/assets/images/shop-placeholder.png`}
+                                        image={product.image}
                                     />
 
                                 }

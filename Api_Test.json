@@ -1,0 +1,3080 @@
+{
+    "products": {
+        "data": [
+            {
+                "id": "764",
+                "hsn_code": "",
+                "name": "10 Litres Refill",
+                "sku": "0003",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "49.000",
+                "barcode": "0003",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "VAT"
+                ],
+                "tax_rates": [
+                    "0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "257",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1620645093_34.png",
+                "cat_image": "",
+                "cat_name": "Drinking Water",
+                "prices": [
+                    {
+                        "actualMrp": "130",
+                        "mrp": "130",
+                        "pricebftx": 130,
+                        "costprice": "90"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "764"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "764"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "764"
+                    },
+                    {
+                        "quantity": "48.000",
+                        "location_name": "Jibu",
+                        "store_code": "RAQY2WHWR8",
+                        "item_id": "764"
+                    }
+                ]
+            },
+            {
+                "id": "762",
+                "hsn_code": "",
+                "name": "18.9 Litre Drinking Water",
+                "sku": "00001",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "49.000",
+                "barcode": "00001",
+                "tax": "16.000",
+                "discount": "0",
+                "tax_names": [
+                    "VAT"
+                ],
+                "tax_rates": [
+                    "0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "257",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1620393175_71.png",
+                "cat_image": "",
+                "cat_name": "Drinking Water",
+                "prices": [
+                    {
+                        "actualMrp": "1300",
+                        "mrp": "1300",
+                        "pricebftx": 1120.6897,
+                        "costprice": "900"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "762"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "762"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "762"
+                    },
+                    {
+                        "quantity": "50.000",
+                        "location_name": "Jibu",
+                        "store_code": "RAQY2WHWR8",
+                        "item_id": "762"
+                    }
+                ]
+            },
+            {
+                "id": "766",
+                "hsn_code": "",
+                "name": "20 Lit Bottle Refill",
+                "sku": "0005",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "60.000",
+                "barcode": "0005",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "VAT"
+                ],
+                "tax_rates": [
+                    "0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "257",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1620646650_20.png",
+                "cat_image": "",
+                "cat_name": "Drinking Water",
+                "prices": [
+                    {
+                        "actualMrp": "250",
+                        "mrp": "250",
+                        "pricebftx": 250,
+                        "costprice": "200"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "766"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "766"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "766"
+                    },
+                    {
+                        "quantity": "60.000",
+                        "location_name": "Jibu",
+                        "store_code": "RAQY2WHWR8",
+                        "item_id": "766"
+                    }
+                ]
+            },
+            {
+                "id": "765",
+                "hsn_code": "",
+                "name": "20Lit + Bottle with Tap",
+                "sku": "0004",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "39.000",
+                "barcode": "0004",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "VAT"
+                ],
+                "tax_rates": [
+                    "0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "257",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1620645238_95.png",
+                "cat_image": "",
+                "cat_name": "Drinking Water",
+                "prices": [
+                    {
+                        "actualMrp": "1250",
+                        "mrp": "1250",
+                        "pricebftx": 1250,
+                        "costprice": "1000"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "765"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "765"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "765"
+                    },
+                    {
+                        "quantity": "40.000",
+                        "location_name": "Jibu",
+                        "store_code": "RAQY2WHWR8",
+                        "item_id": "765"
+                    }
+                ]
+            },
+            {
+                "id": "757",
+                "hsn_code": "1111",
+                "name": "5Star More Caramel 25g",
+                "sku": "8901233036625 ",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "973.000",
+                "barcode": "8901233036625 ",
+                "tax": "18.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "9.000",
+                    " 9.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "0",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": null,
+                "prices": [
+                    {
+                        "actualMrp": 10,
+                        "mrp": 10,
+                        "pricebftx": 8.4746,
+                        "costprice": "1.00"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "973.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "757"
+                    }
+                ]
+            },
+            {
+                "id": "760",
+                "hsn_code": "111",
+                "name": "Aapro Bean Peanut Butter",
+                "sku": "8904175961017",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "28.000",
+                "barcode": "8904175961017",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1619093078_100.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "375",
+                        "mrp": "360",
+                        "pricebftx": 360,
+                        "costprice": "250"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "attribute_id": "1",
+                        "option_id": "2",
+                        "attribute_value": "Yellow",
+                        "attribute_code": "color",
+                        "attribute_name": "Color"
+                    },
+                    {
+                        "attribute_id": "2",
+                        "option_id": "0",
+                        "attribute_value": null,
+                        "attribute_code": "size",
+                        "attribute_name": "Size"
+                    }
+                ],
+                "stock": [
+                    {
+                        "quantity": "7.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "760"
+                    },
+                    {
+                        "quantity": "11.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "760"
+                    },
+                    {
+                        "quantity": "10.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "760"
+                    }
+                ]
+            },
+            {
+                "id": "168",
+                "hsn_code": "1111",
+                "name": "Aashirvaad Multigrains Atta 1kg",
+                "sku": "8901725121648",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "143.000",
+                "barcode": "8901725121648",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "233",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616151405_37.jpg",
+                "cat_image": "",
+                "cat_name": "Atta",
+                "prices": [
+                    {
+                        "actualMrp": "64",
+                        "mrp": "64",
+                        "pricebftx": 60.9524,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "37.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "168"
+                    },
+                    {
+                        "quantity": "120.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "168"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "168"
+                    }
+                ]
+            },
+            {
+                "id": "320",
+                "hsn_code": "405",
+                "name": "Amul Cow Ghee 200ml",
+                "sku": "8901262030663",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1068.000",
+                "barcode": "8901262030663",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "241",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150806_72.jpg",
+                "cat_image": "",
+                "cat_name": "Ghee",
+                "prices": [
+                    {
+                        "actualMrp": "120",
+                        "mrp": "120",
+                        "pricebftx": 107.1429,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "971.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "320"
+                    },
+                    {
+                        "quantity": "99.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "320"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "320"
+                    }
+                ]
+            },
+            {
+                "id": "754",
+                "hsn_code": "",
+                "name": "Apple",
+                "sku": "F0007",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.740",
+                "barcode": "F0007",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617252663_12.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "165",
+                        "mrp": "165",
+                        "pricebftx": 165,
+                        "costprice": "120"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.740",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "754"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "754"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "754"
+                    }
+                ]
+            },
+            {
+                "id": "655",
+                "hsn_code": "111",
+                "name": "Assam CTC Tea 200 gm",
+                "sku": "100014494037",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "120.000",
+                "barcode": "100014494037",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "245",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616152376_10.jpg",
+                "cat_image": "",
+                "cat_name": "Tea",
+                "prices": [
+                    {
+                        "actualMrp": "95",
+                        "mrp": "95",
+                        "pricebftx": 95,
+                        "costprice": "70"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "655"
+                    },
+                    {
+                        "quantity": "120.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "655"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "655"
+                    }
+                ]
+            },
+            {
+                "id": "755",
+                "hsn_code": "",
+                "name": "Banana",
+                "sku": "F0008",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "99.400",
+                "barcode": "F0008",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617252750_30.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "40",
+                        "mrp": "40",
+                        "pricebftx": 40,
+                        "costprice": "25"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-0.600",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "755"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "755"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "755"
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "hsn_code": "111",
+                "name": "Black Printed Long Kurta",
+                "sku": "8907797097058",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "76.000",
+                "barcode": "8907797097058",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148582_86.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "719",
+                        "mrp": "719",
+                        "pricebftx": 684.7619,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "77.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "18"
+                    },
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "18"
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "hsn_code": "111",
+                "name": "Blue Gray Half Sleev Long Kurta",
+                "sku": "8905034729120",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "69.000",
+                "barcode": "8905034729120",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148440_96.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "1599",
+                        "mrp": "1599",
+                        "pricebftx": 1522.8571,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "69.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "hsn_code": "111",
+                "name": "Blue Half Sleev Long Kurta",
+                "sku": "8905034724842",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "80.000",
+                "barcode": "8905034724842",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148463_66.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "1049",
+                        "mrp": "1049",
+                        "pricebftx": 999.0476,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "82.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "14"
+                    },
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "14"
+                    },
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "14"
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "hsn_code": "111",
+                "name": "Blue Printed Long Kurta",
+                "sku": "8905034728116",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "66.000",
+                "barcode": "8905034728116",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148418_100.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "1399",
+                        "mrp": "1399",
+                        "pricebftx": 1332.381,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "66.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "hsn_code": "111",
+                "name": "Blue Printed Long Kurta",
+                "sku": "8907686660233",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "63.000",
+                "barcode": "8907686660233",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149166_15.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "599",
+                        "mrp": "599",
+                        "pricebftx": 570.4762,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "64.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "21"
+                    },
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "741",
+                "hsn_code": "",
+                "name": "Bottle Gourd",
+                "sku": "V0004",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "99.000",
+                "barcode": "V0004",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617260471_39.jpg",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "55",
+                        "mrp": "55",
+                        "pricebftx": 55,
+                        "costprice": "35"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "741"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "741"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "741"
+                    }
+                ]
+            },
+            {
+                "id": "740",
+                "hsn_code": "",
+                "name": "Brinjal",
+                "sku": "V0003",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0003",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "50",
+                        "mrp": "50",
+                        "pricebftx": 50,
+                        "costprice": "35"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "740"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "740"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "740"
+                    }
+                ]
+            },
+            {
+                "id": "423",
+                "hsn_code": "1111",
+                "name": "Bru Green Lebel 100gm",
+                "sku": "8901030774980",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1083.000",
+                "barcode": "8901030774980",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "245",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150839_29.jpg",
+                "cat_image": "",
+                "cat_name": "Tea",
+                "prices": [
+                    {
+                        "actualMrp": "25",
+                        "mrp": "25",
+                        "pricebftx": 23.8095,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "983.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "423"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "423"
+                    }
+                ]
+            },
+            {
+                "id": "743",
+                "hsn_code": "",
+                "name": "Cabbage",
+                "sku": "V0006",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0006",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "16",
+                        "mrp": "16",
+                        "pricebftx": 16,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "743"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "743"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "743"
+                    }
+                ]
+            },
+            {
+                "id": "742",
+                "hsn_code": "",
+                "name": "Capsicum",
+                "sku": "V0005",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "99.000",
+                "barcode": "V0005",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "70",
+                        "mrp": "70",
+                        "pricebftx": 70,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "742"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "742"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "742"
+                    }
+                ]
+            },
+            {
+                "id": "747",
+                "hsn_code": "",
+                "name": "Carrot ",
+                "sku": "V0010",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0010",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "80",
+                        "mrp": "80",
+                        "pricebftx": 80,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "747"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "747"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "747"
+                    }
+                ]
+            },
+            {
+                "id": "746",
+                "hsn_code": "",
+                "name": "Cauliflower",
+                "sku": "V0009",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0009",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617261352_85.jpg",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "30",
+                        "mrp": "30",
+                        "pricebftx": 30,
+                        "costprice": "15"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "746"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "746"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "746"
+                    }
+                ]
+            },
+            {
+                "id": "737",
+                "hsn_code": "4567",
+                "name": "chickoo",
+                "sku": "14797125",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "42.000",
+                "barcode": "14797125",
+                "tax": "18.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "9.000",
+                    " 9.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "0",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": null,
+                "prices": [
+                    {
+                        "actualMrp": 75,
+                        "mrp": 75,
+                        "pricebftx": 63.5593,
+                        "costprice": "1.00"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "42.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "737"
+                    }
+                ]
+            },
+            {
+                "id": "199",
+                "hsn_code": "1111",
+                "name": "Daawat Pulav Basmati Rice",
+                "sku": "8901537074231",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "181.000",
+                "barcode": "8901537074231",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "242",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150645_23.jpg",
+                "cat_image": "",
+                "cat_name": "Rice",
+                "prices": [
+                    {
+                        "actualMrp": "120",
+                        "mrp": "120",
+                        "pricebftx": 114.2857,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "82.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "199"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "199"
+                    }
+                ]
+            },
+            {
+                "id": "311",
+                "hsn_code": "1111",
+                "name": "Dabur Red Paste 200g",
+                "sku": "8901207027321",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1092.000",
+                "barcode": "8901207027321",
+                "tax": "18.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "9.000",
+                    " 9.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "236",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149807_61.jpg",
+                "cat_image": "",
+                "cat_name": "Toothpaste",
+                "prices": [
+                    {
+                        "actualMrp": "95",
+                        "mrp": "95",
+                        "pricebftx": 80.5085,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "992.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "311"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "311"
+                    }
+                ]
+            },
+            {
+                "id": "362",
+                "hsn_code": "1111",
+                "name": "Everest Turmeric Powder 100gm",
+                "sku": "8901786421015",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1095.000",
+                "barcode": "8901786421015",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "244",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150399_59.jpg",
+                "cat_image": "",
+                "cat_name": "Spices",
+                "prices": [
+                    {
+                        "actualMrp": "28",
+                        "mrp": "28",
+                        "pricebftx": 26.6667,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "996.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "362"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "362"
+                    },
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "362"
+                    }
+                ]
+            },
+            {
+                "id": "541",
+                "hsn_code": "1111",
+                "name": "Fortune Pure Mustard Oil 1L",
+                "sku": "8906007280969",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1093.000",
+                "barcode": "8906007280969",
+                "tax": "18.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "9.000",
+                    " 9.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "246",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150871_97.jpg",
+                "cat_image": "",
+                "cat_name": "Oil",
+                "prices": [
+                    {
+                        "actualMrp": "169",
+                        "mrp": "169",
+                        "pricebftx": 143.2203,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "994.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "541"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "541"
+                    }
+                ]
+            },
+            {
+                "id": "198",
+                "hsn_code": "1111",
+                "name": "Fortune Super Basmati Rice",
+                "sku": "8906007282475",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "194.000",
+                "barcode": "8906007282475",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "242",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150569_29.jpg",
+                "cat_image": "",
+                "cat_name": "Rice",
+                "prices": [
+                    {
+                        "actualMrp": "170",
+                        "mrp": "170",
+                        "pricebftx": 161.9048,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "94.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "198"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "198"
+                    }
+                ]
+            },
+            {
+                "id": "752",
+                "hsn_code": "",
+                "name": "Grapes",
+                "sku": "F0005",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "F0005",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617261709_76.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "80",
+                        "mrp": "80",
+                        "pricebftx": 80,
+                        "costprice": "40"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "752"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "752"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "752"
+                    }
+                ]
+            },
+            {
+                "id": "296",
+                "hsn_code": "1111",
+                "name": "Haldirams Moong Dal 400g",
+                "sku": "8904004403800",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1198.000",
+                "barcode": "8904004403800",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "243",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149647_88.jpg",
+                "cat_image": "",
+                "cat_name": "Snacks",
+                "prices": [
+                    {
+                        "actualMrp": "100",
+                        "mrp": "100",
+                        "pricebftx": 89.2857,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "998.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "296"
+                    },
+                    {
+                        "quantity": "200.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "296"
+                    }
+                ]
+            },
+            {
+                "id": "758",
+                "hsn_code": "1111",
+                "name": "Haldirams Soya Sticks 200g",
+                "sku": "8904004400250 ",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "2000.000",
+                "barcode": "8904004400250 ",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "0",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": null,
+                "prices": [
+                    {
+                        "actualMrp": 45,
+                        "mrp": 45,
+                        "pricebftx": 40.1786,
+                        "costprice": "1.00"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "2000.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "758"
+                    }
+                ]
+            },
+            {
+                "id": "298",
+                "hsn_code": "1111",
+                "name": "Haldirams Soya Sticks 200g",
+                "sku": "8901288310206",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1098.000",
+                "barcode": "8901288310206",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "243",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Snacks",
+                "prices": [
+                    {
+                        "actualMrp": "45",
+                        "mrp": "45",
+                        "pricebftx": 40.1786,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "998.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "298"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "298"
+                    }
+                ]
+            },
+            {
+                "id": "297",
+                "hsn_code": "1111",
+                "name": "Haldirams Tasty Nuts 200g",
+                "sku": "8904004403633",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1198.000",
+                "barcode": "8904004403633",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "243",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149719_95.png",
+                "cat_image": "",
+                "cat_name": "Snacks",
+                "prices": [
+                    {
+                        "actualMrp": "45",
+                        "mrp": "45",
+                        "pricebftx": 40.1786,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "998.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "297"
+                    },
+                    {
+                        "quantity": "200.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "297"
+                    }
+                ]
+            },
+            {
+                "id": "763",
+                "hsn_code": "",
+                "name": "Jibu 5Liters Refill",
+                "sku": "0002",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "50.000",
+                "barcode": "0002",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "VAT"
+                ],
+                "tax_rates": [
+                    "0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "257",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1620644925_58.png",
+                "cat_image": "",
+                "cat_name": "Drinking Water",
+                "prices": [
+                    {
+                        "actualMrp": "70",
+                        "mrp": "70",
+                        "pricebftx": 70,
+                        "costprice": "40"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "763"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "763"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "763"
+                    },
+                    {
+                        "quantity": "50.000",
+                        "location_name": "Jibu",
+                        "store_code": "RAQY2WHWR8",
+                        "item_id": "763"
+                    }
+                ]
+            },
+            {
+                "id": "745",
+                "hsn_code": "",
+                "name": "Lady Finger",
+                "sku": "V0008",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0008",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617261772_31.jpg",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "50",
+                        "mrp": "50",
+                        "pricebftx": 50,
+                        "costprice": "30"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "745"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "745"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "745"
+                    }
+                ]
+            },
+            {
+                "id": "748",
+                "hsn_code": "",
+                "name": "Mango",
+                "sku": "Fooo1",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "Fooo1",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617261984_42.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "105",
+                        "mrp": "105",
+                        "pricebftx": 105,
+                        "costprice": "75"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "748"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "748"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "748"
+                    }
+                ]
+            },
+            {
+                "id": "661",
+                "hsn_code": "7493",
+                "name": "McDowells",
+                "sku": "0048639740",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1.000",
+                "barcode": "0048639740",
+                "tax": "20.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "10.000",
+                    " 10.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "239",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1615735979_40.jpg",
+                "cat_image": "",
+                "cat_name": "Whiskey",
+                "prices": [
+                    {
+                        "actualMrp": "700",
+                        "mrp": "700",
+                        "pricebftx": 583.3333,
+                        "costprice": "1.00"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-18.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "661"
+                    },
+                    {
+                        "quantity": "19.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "661"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "661"
+                    }
+                ]
+            },
+            {
+                "id": "96",
+                "hsn_code": "1111",
+                "name": "Milky Mist Ghee 200 ML",
+                "sku": "8904083301813",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "197.000",
+                "barcode": "8904083301813",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "241",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150492_28.jpg",
+                "cat_image": "",
+                "cat_name": "Ghee",
+                "prices": [
+                    {
+                        "actualMrp": "140",
+                        "mrp": "140",
+                        "pricebftx": 125,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "97.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "96"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "96"
+                    }
+                ]
+            },
+            {
+                "id": "95",
+                "hsn_code": "1111",
+                "name": "nandini Pure Ghee",
+                "sku": "8906036670922",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "192.000",
+                "barcode": "8906036670922",
+                "tax": "12.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "6.000",
+                    " 6.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "241",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150455_56.jpg",
+                "cat_image": "",
+                "cat_name": "Ghee",
+                "prices": [
+                    {
+                        "actualMrp": "120",
+                        "mrp": "120",
+                        "pricebftx": 107.1429,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "92.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "95"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "95"
+                    }
+                ]
+            },
+            {
+                "id": "739",
+                "hsn_code": "",
+                "name": "Onion",
+                "sku": "V0002",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0002",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "32",
+                        "mrp": "32",
+                        "pricebftx": 32,
+                        "costprice": "20"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "739"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "739"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "739"
+                    }
+                ]
+            },
+            {
+                "id": "749",
+                "hsn_code": "",
+                "name": "Orange",
+                "sku": "8901725014612",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "9.000",
+                "barcode": "8901725014612",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617261825_38.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "100",
+                        "mrp": "100",
+                        "pricebftx": 100,
+                        "costprice": "80"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "9.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "749"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "749"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "749"
+                    }
+                ]
+            },
+            {
+                "id": "751",
+                "hsn_code": "",
+                "name": "Pineapple",
+                "sku": "F0004",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "F0004",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617261876_73.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "80",
+                        "mrp": "80",
+                        "pricebftx": 80,
+                        "costprice": "50"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "751"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "751"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "751"
+                    }
+                ]
+            },
+            {
+                "id": "738",
+                "hsn_code": "",
+                "name": "Potato",
+                "sku": "V0001",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "99.000",
+                "barcode": "V0001",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "25",
+                        "mrp": "25",
+                        "pricebftx": 25,
+                        "costprice": "15"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "-1.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "738"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "738"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "738"
+                    }
+                ]
+            },
+            {
+                "id": "736",
+                "hsn_code": "",
+                "name": "Puja",
+                "sku": "0000001",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "0000001",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "249",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Puja",
+                "prices": [
+                    {
+                        "actualMrp": "500",
+                        "mrp": "500",
+                        "pricebftx": 500,
+                        "costprice": "0"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "736"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "736"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "736"
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "hsn_code": "111",
+                "name": "Red Printed Long Kurta",
+                "sku": "8907538265463",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "88.000",
+                "barcode": "8907538265463",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149227_47.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "899",
+                        "mrp": "899",
+                        "pricebftx": 856.1905,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "88.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "hsn_code": "111",
+                "name": "Red Printed Long Kurta",
+                "sku": "8907797197185",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "79.000",
+                "barcode": "8907797197185",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148611_81.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "699",
+                        "mrp": "699",
+                        "pricebftx": 665.7143,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "79.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "19"
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "hsn_code": "111",
+                "name": "Red Printed Long Kurta",
+                "sku": "8907686659084",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "93.000",
+                "barcode": "8907686659084",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148493_37.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "899",
+                        "mrp": "899",
+                        "pricebftx": 856.1905,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "93.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "15"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "hsn_code": "111",
+                "name": "Red Printed Long Kurta",
+                "sku": "8901725727208",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "94.000",
+                "barcode": "8901725727208",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616147340_72.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "1249",
+                        "mrp": "1249",
+                        "pricebftx": 1189.5238,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "94.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "11"
+                    }
+                ]
+            },
+            {
+                "id": "719",
+                "hsn_code": "1234",
+                "name": "Smirnoff",
+                "sku": "07570554",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "49.000",
+                "barcode": "07570554",
+                "tax": "10.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "5.000",
+                    " 5.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "238",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Vodka",
+                "prices": [
+                    {
+                        "actualMrp": "25",
+                        "mrp": "25",
+                        "pricebftx": 22.7273,
+                        "costprice": "1.00"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "719"
+                    },
+                    {
+                        "quantity": "49.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "719"
+                    }
+                ]
+            },
+            {
+                "id": "376",
+                "hsn_code": "1111",
+                "name": "Sunpure Refined Oil 1L",
+                "sku": "8908000502017",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "1093.000",
+                "barcode": "8908000502017",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "246",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616150356_19.jpg",
+                "cat_image": "",
+                "cat_name": "Oil",
+                "prices": [
+                    {
+                        "actualMrp": "135",
+                        "mrp": "135",
+                        "pricebftx": 128.5714,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "993.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "376"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "376"
+                    }
+                ]
+            },
+            {
+                "id": "744",
+                "hsn_code": "",
+                "name": "Tomato",
+                "sku": "V0007",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "V0007",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "251",
+                "item_image": "",
+                "cat_image": "",
+                "cat_name": "Fresh Vegetables",
+                "prices": [
+                    {
+                        "actualMrp": "10",
+                        "mrp": "10",
+                        "pricebftx": 10,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "744"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "744"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "744"
+                    }
+                ]
+            },
+            {
+                "id": "753",
+                "hsn_code": "",
+                "name": "Watermelon",
+                "sku": "F0006",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "100.000",
+                "barcode": "F0006",
+                "tax": "0.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "0.000",
+                    " 0.000"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "252",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1617262665_99.jpg",
+                "cat_image": "",
+                "cat_name": "Fruits",
+                "prices": [
+                    {
+                        "actualMrp": "65",
+                        "mrp": "65",
+                        "pricebftx": 65,
+                        "costprice": "35"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "753"
+                    },
+                    {
+                        "quantity": "100.000",
+                        "location_name": "Grocery Store",
+                        "store_code": "8QCXU240FS",
+                        "item_id": "753"
+                    },
+                    {
+                        "quantity": "0.000",
+                        "location_name": "Liquor store",
+                        "store_code": "R5Q5XF46M2",
+                        "item_id": "753"
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "hsn_code": "111",
+                "name": "White Printed Long Kurta",
+                "sku": "8907797743658",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "76.000",
+                "barcode": "8907797743658",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148555_35.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "429",
+                        "mrp": "429",
+                        "pricebftx": 408.5714,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "76.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "hsn_code": "111",
+                "name": "Yellow Printed Long Kurta",
+                "sku": "8905034727942",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "73.000",
+                "barcode": "8905034727942",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149203_30.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "949",
+                        "mrp": "949",
+                        "pricebftx": 903.8095,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "73.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "hsn_code": "111",
+                "name": "Yellow Printed Long Kurta",
+                "sku": "8905034411773",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "94.000",
+                "barcode": "8905034411773",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616149139_94.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "399",
+                        "mrp": "399",
+                        "pricebftx": 380,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "94.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "hsn_code": "111",
+                "name": "Yellow Printed Long Kurta",
+                "sku": "8905034312398",
+                "price": 0,
+                "finalprice": 0,
+                "mrp": 0,
+                "cost_price": 0,
+                "qty": "43.000",
+                "barcode": "8905034312398",
+                "tax": "5.000",
+                "discount": "0",
+                "tax_names": [
+                    "CGST",
+                    " SGST"
+                ],
+                "tax_rates": [
+                    "2.500",
+                    " 2.500"
+                ],
+                "item_type": "1",
+                "pricerule_id": 0,
+                "category_id": "229",
+                "item_image": "https://retail.galla.app/dev/uploads/item_pics/1616148532_97.jpg",
+                "cat_image": "",
+                "cat_name": "Butter",
+                "prices": [
+                    {
+                        "actualMrp": "1049",
+                        "mrp": "1049",
+                        "pricebftx": 999.0476,
+                        "costprice": "1"
+                    }
+                ],
+                "attributes": [],
+                "stock": [
+                    {
+                        "quantity": "43.000",
+                        "location_name": "Apparel",
+                        "store_code": "MQO86I1S2X",
+                        "item_id": "16"
+                    }
+                ]
+            }
+        ],
+        "rules": [
+            {
+                "rule_id": "6",
+                "type_id": "2",
+                "qty_buy": "2.00",
+                "qty_get": "1.00",
+                "amt_spend": "0.00",
+                "percentoff": "0.00",
+                "flatoff": "0.00",
+                "is_multiple_range": "0",
+                "amt_range": null,
+                "flat_off_range": null,
+                "percent_off_range": null,
+                "apply_as_coupon": "0",
+                "is_multiple_qty": "0",
+                "qty_range": null,
+                "priority": "1",
+                "apply_rule_on": "cart",
+                "items": [],
+                "category_ids": []
+            }
+        ],
+        "success": true,
+        "cached": false
+    }
+}
